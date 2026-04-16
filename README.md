@@ -7,7 +7,7 @@ A modern shopping categories website with login, signup, and interactive UI.
 ## 🚀 Live Demo
 
 <p align="center">
-  <a href="https://categories-website.netlify.app/">
+  <a href="[https://categories-website.netlify.app/](https://shopsmart-website.netlify.app/)">
     <img src="https://img.shields.io/badge/🌐%20Go%20Live-Click%20Here-blue?style=for-the-badge&logo=netlify" />
   </a>
 </p>
